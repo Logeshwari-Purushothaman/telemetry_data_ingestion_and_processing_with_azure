@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 Follow these steps to set up the project:
 
 1. **Clone the repository:**
-   git clone https://github.com/Logeshwari-Purushothaman/Real-Time-Telemetry-Data-Ingestion-Processing---Azure.git
-   cd Real-Time-Telemetry-Data-Ingestion-Processing---Azure
+   git clone https://github.com/Logeshwari-Purushothaman/telemetry_data_ingestion_and_processing_with_azure 
+   cd Telemetry-Data-Ingestion-Processing---Azure
    
    
